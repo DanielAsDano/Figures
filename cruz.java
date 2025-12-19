@@ -1,4 +1,4 @@
-package cruz;
+
 import java.util.Scanner;
 public class cruz{
     public static void main(String[] args) {
